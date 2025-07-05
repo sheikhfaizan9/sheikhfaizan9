@@ -1,39 +1,48 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sheikh Faizan
-=====================================================================================================================================
+# 👋 Hi there! I'm Sheikh Faizan
 
-Student, Coder & Developer
---------------------------
+🎓 Computer Science Graduate | 💻 Data Science Enthusiast | 📊 Analyst
 
-I'm a Computer science student and I've been learning to code for 3 years. I started with c++ and have really found a passion for game programming and data structures.
+---
 
-* 🌍  I'm based in J&K India
-* ✉️  You can contact me at [Sheikhfaizan87@gmail.com](mailto:Sheikhfaizan87@gmail.com)
-* 🧠  I'm learning Python Programming
-* ⚡  Quick learner
+I'm a recent CS graduate with a passion for **data-driven solutions**. My journey began with C++, but I've since transitioned into the **Data Science domain**, gaining strong skills in **Python**, **SQL**, **Tableau**, **Excel**, and **Web Development (HTML & CSS)**.
 
-<a href="https://www.github.com/SheikhFaizan" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/SheikhFaizan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+🔍 Currently exploring real-world datasets and building dashboards that turn raw data into compelling stories and decisions.
 
-### Skills
+---
 
+## 📌 Highlights
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-</p>
+- 💡 Passionate about **Data Visualization** & **Analytics**
+- 📈 Built projects involving **500K+ records** in Python & Tableau
+- ⚙️ Quick learner & team player with a love for experimentation
+- 💬 Open to collaborations in data projects, analytics, and reporting
 
+---
 
-### Socials
+## 🛠️ Tech Stack
 
-<p align="left"> <a href="https://www.github.com/SheikhFaizan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sheikh-faizan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.polywork.com/Sheikh Faizan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/Sheikh Faizan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/Sheikh Faizan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
+**Languages**: Python, SQL, HTML, CSS  
+**Tools**: Tableau, MS Excel, Jupyter Notebook, VS Code, Git  
+**Skills**: Data Cleaning, EDA, Dashboarding, Storytelling, Web Scraping
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+## 📫 Let’s Connect
 
-<a href="http://www.github.com/SheikhFaizan"><img src="https://github-readme-stats.vercel.app/api?username=SheikhFaizan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SheikhFaizan's GitHub stats" /></a>
+📧 [sheikhfaizan87@gmail.com](mailto:sheikhfaizan87@gmail.com)  
+🌐 [LinkedIn](https://www.linkedin.com/in/sheikh-faizan)  
+🐙 [GitHub](https://github.com/SheikhFaizan)
 
-<a href="http://www.github.com/SheikhFaizan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SheikhFaizan&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+---
 
-<a href="https://github.com/SheikhFaizan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheikhFaizan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## 📊 GitHub Stats
+
+![SheikhFaizan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SheikhFaizan&show_icons=true&count_private=true&theme=radical)
+
+![SheikhFaizan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SheikhFaizan&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SheikhFaizan&layout=compact&theme=radical)
+
+---
+
+Thanks for visiting my profile! 🚀
